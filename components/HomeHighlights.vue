@@ -10,8 +10,8 @@
     </div>
     <div class="hh__actions">
       <div class="hh__action-item">
-        <NuxtLink to="/shop" class="hh__text-link">explore</NuxtLink>
-        <NuxtLink to="/shop" class="hh__icon-link">
+        <a href="#shop" class="hh__text-link">explore</a>
+        <a href="#shop" class="hh__icon-link">
           <img
             class="hh__circle-icon"
             src="https://global-uploads.webflow.com/5c9c9c646cf0969b319f264f/5d14818767ac37ac193eccf4_circle-container.svg"
@@ -22,7 +22,7 @@
             src="https://global-uploads.webflow.com/5c9c9c646cf0969b319f264f/5d24aa633c6cae18850994a2_arrow.svg"
             alt=""
           />
-        </NuxtLink>
+        </a>
       </div>
     </div>
   </section>

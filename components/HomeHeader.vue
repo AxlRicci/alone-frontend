@@ -15,9 +15,6 @@
 export default {
   name: 'HomeHeader',
   props: ['content'],
-  created() {
-    console.log(this.content)
-  },
 }
 </script>
 

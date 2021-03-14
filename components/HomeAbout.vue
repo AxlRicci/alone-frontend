@@ -1,5 +1,5 @@
 <template>
-  <section class="about">
+  <section id="about" class="about">
     <div class="about__content">
       <div class="title">
         <h2>{{ content.aboutTitle }}</h2>

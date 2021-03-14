@@ -1,5 +1,5 @@
 <template>
-  <div class="marquee" style="--tw: 151vw; --ad: 5s">
+  <div id="shop" class="marquee" style="--tw: 151vw; --ad: 5s">
     <span>
       &nbsp;- ALONE SHOP - DO NOT SCROLL - ALONE SHOP - DO NOT SCROLL - ALONE
       SHOP - DO NOT SCROLL - ALONE SHOP - DO NOT SCROLL - ALONE SHOP - DO NOT

@@ -30,8 +30,8 @@ export default {
 .footer {
   height: auto;
   width: 100%;
-  padding: 1rem;
   position: absolute;
+  padding: 1rem;
   bottom: 0;
   left: 0;
   display: flex;
@@ -48,7 +48,6 @@ export default {
 
 .social-icons {
   width: 30%;
-  padding: 0 2rem;
   display: flex;
   justify-content: flex-end;
   gap: 2rem;
@@ -74,7 +73,7 @@ export default {
 
 @media only screen and (min-width: 900px) {
   .footer {
-    padding: 0 10vw 0 5vw;
+    padding: 1rem 10vw 1rem 5vw;
   }
 }
 </style>

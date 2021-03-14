@@ -2,13 +2,13 @@
   <nav class="nav">
     <ul class="nav__list">
       <li class="nav__item nav__item--shop">
-        <NuxtLink to="/shop" class="nav__link">shop</NuxtLink>
+        <a href="#shop" class="nav__link">shop</a>
       </li>
-      <li class="nav__item">
+      <!-- <li class="nav__item">
         <NuxtLink to="/collections" class="nav__link">collections</NuxtLink>
-      </li>
+      </li> -->
       <li class="nav__item">
-        <NuxtLink to="/about" class="nav__link">about</NuxtLink>
+        <a href="#about" class="nav__link">about</a>
       </li>
     </ul>
   </nav>
