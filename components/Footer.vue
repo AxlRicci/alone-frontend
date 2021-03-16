@@ -2,14 +2,17 @@
   <footer class="footer">
     <p class="copyright">Copyright <b>ALONE.</b> All Rights Reserved.</p>
     <div class="social-icons">
-      <a class="social-icon-link" href="https://instagram.com">
+      <a
+        class="social-icon-link"
+        href="https://www.instagram.com/alonehamilton/"
+      >
         <img
           class="social-icon"
           src="@/assets/icons/instagram.svg"
           alt="Instagram Icon"
         />
       </a>
-      <a class="social-icon-link" href="https://www.depop.com">
+      <a class="social-icon-link" href="https://www.depop.com/ricciminaj">
         <img
           class="social-icon"
           src="@/assets/icons/icons8-depop.svg"
